@@ -1,0 +1,30 @@
+*{
+    background-color: rgb(236, 217, 247);
+
+}
+.header{
+
+   
+}
+h1,ul,li{
+    display:inline-block;
+
+}
+ul,li{
+    margin-left:100px;
+    cursor: pointer;
+    
+    
+}
+li:hover{
+    color: rgb(234, 28, 28);
+}
+input{
+    width:100%;
+    padding:10px;
+}
+img{
+    display: inline-block;
+    width:200px
+}
+
